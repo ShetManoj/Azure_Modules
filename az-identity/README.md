@@ -19,18 +19,17 @@ This module covers user and group management in Microsoft Entra ID (Azure AD), a
 
 ## 📸 Screenshots
 
-Located in the `screenshots/` folder:
+- ![Users List](./screenshots/users-list.PNG)
+- ![User Details](./screenshots/user-details.PNG)
+- ![Groups List](./screenshots/groups-list.PNG)
+- ![AppReaders Members](./screenshots/group-members-appreaders.PNG)
+- ![VMContributors Members](./screenshots/group-members-vmcontributors.PNG)
+- ![RBAC AppReaders](./screenshots/role-assignment-appreaders.PNG)
+- ![RBAC VMContributors](./screenshots/role-assignment-vmcontributors.PNG)
+- ![Resource Group Context](./screenshots/resource-group-context.PNG)
+- ![First Login Password Change](./screenshots/first-login-password-change.png.PNG)
+- ![MFA Prompt](./screenshots/mfa-prompt.PNG)
 
-- `users-list.png` – List of created users
-- `user-details.png` – Details of a single user
-- `groups-list.png` – Security groups overview
-- `group-members-appreaders.png` – Members of AppReaders group
-- `group-members-vmcontributors.png` – Members of VMContributors group
-- `role-assignment-appreaders.png` – RBAC assignment for AppReaders
-- `role-assignment-vmcontributors.png` – RBAC assignment for VMContributors
-- `resource-group-context.png` – Target resource group for role assignment
-- `first-login-password-change.png` – First login password change prompt
-- `mfa-prompt.png` – Microsoft Authenticator prompt at login
 
 ---
 
